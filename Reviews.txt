@@ -1,0 +1,21 @@
+|CLI commands                      | Actions
+|-----------------------------     |----------------------------------
+|'mkdir  <filepath>'                | Create a folder
+|'touch  <filepath>'                | Create a file                    
+| echo "text content" > < filepath> | Create file and outputs content to a file
+|'pwd'                              | Printing workng directory
+|'cd'                               | Change directory
+|'ls'                               | List directory content
+|'ls -a'                            | LIST a directory contents, even hidden directories
+|'rm <filepath>' or del <filepath>' | Remove a file
+|'mv <filepath> <new_filepath>'     | Remove a file
+|'mv <filepath> <new_filepath>'     | Move a file
+
+
+
+|Git commands                         |
+actions                               |
+---------------------------------------------------------------------------|
+| 'git init'                          | Adds 
+| 'git remote' [-v]'                  | List remote
+| 'git status' 
